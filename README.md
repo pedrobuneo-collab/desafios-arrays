@@ -36,4 +36,4 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone 
+   git clone https://github.com/pedrobuneo-collab/desafios-arrays.git
